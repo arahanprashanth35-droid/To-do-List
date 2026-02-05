@@ -1,0 +1,36 @@
+# Claude
+.claude/
+
+# Dependencies
+node_modules/
+venv/
+
+# Build outputs
+dist/
+build/
+
+# Database
+*.db
+
+# Environment
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Cache
+__pycache__/
+*.pyc
+.cache/
